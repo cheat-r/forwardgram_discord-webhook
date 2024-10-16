@@ -1,6 +1,10 @@
 # <img src="resources/bricksmol.gif"> Forwardgram: Discord Webhook Edition — Forward Telegram Messages to Discord
+# Archival notice
+Due to Discord being banned in Russia, developing of Forwardgram is indefinitely stopped until further notice. I can't even use my own script without bypass tools!
 
-<img src="resources/itjustworks.png">
+At the time of archiving this script is (almost) fully working and ready for use. But that may change at any time, so if that happens - use available forks or create your own.
+
+Until next time!
 
 ## Description
 Forwardgram is a script that uses your Telegram account for parsing new messages from one or more Telegram channels and forwards them to Discord channel using webhook. All you need is your Telegram and Discord accounts!
